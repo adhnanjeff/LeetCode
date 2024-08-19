@@ -8,7 +8,7 @@ data = {'Name':['Jai', 'Princi', 'Gaurav', 'Anuj'],
 		'Qualification':['Msc', 'MA', 'MCA', 'Phd']} 
 	
 # Convert the dictionary into DataFrame 
-df = pd.DataFrame(data) 
+df = pd.DataFrame(data)
 	
 # select top three rows 
 print(df.loc[1:3]) 
