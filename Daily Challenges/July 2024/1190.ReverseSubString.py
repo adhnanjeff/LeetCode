@@ -1,7 +1,7 @@
 #Problem 1190
 #Solved on 11.7.24
 
-from collections import deque
+from collections import deque 
 
 class Solution:
     def reverseParentheses(self, s):
