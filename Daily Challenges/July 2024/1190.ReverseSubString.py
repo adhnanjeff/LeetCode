@@ -3,7 +3,7 @@
 
 from collections import deque 
 
-class Solution:
+class Solution: 
     def reverseParentheses(self, s): 
         ind_stack = deque()
         res = []
