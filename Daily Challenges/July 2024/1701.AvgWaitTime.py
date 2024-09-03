@@ -7,7 +7,7 @@ class Solution(object):
         wait = 0
         for arrival, time in customers:
             if current_time < arrival:
-                current_time = arrival
+                current_time = arrival 
             wait += (current_time + time - arrival)
             current_time += time
 
