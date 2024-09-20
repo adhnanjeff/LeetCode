@@ -1,5 +1,5 @@
-#PROBLEM 214
-@SOLVED ON 20.9.24
+#Problem 214
+#SOLVED ON 20.9.24
 
 class Solution:
     def shortestPalindrome(self, s: str) -> str:
